@@ -1,0 +1,6 @@
+{
+  "name": "SCAMSIGNAL - AI-Assisted Crypto Risk Investigation",
+  "description": "Investigate observable on-chain and contract signals on Base before interacting. Evidence-first crypto risk analysis powered by deterministic checks and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
